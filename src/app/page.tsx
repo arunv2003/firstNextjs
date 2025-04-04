@@ -5,7 +5,6 @@ import Instructors from "@/component/Instructors";
 import MusicSchoolTestimonial from "@/component/TestmonialCards";
 import UpcomingWebinars from "@/component/UpcomingWebinars";
 import WhyChooseUs from "@/component/WhyChooseUs";
-import Image from "next/image";
 
 export default function Home() {
   return (

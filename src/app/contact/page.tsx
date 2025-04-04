@@ -11,7 +11,7 @@ const Page = () => {
         <div className="relative flex h-full flex-col items-start justify-end overflow-hidden rounded-2xl border border-gray-800 bg-gray-900 px-4 py-8 shadow-xl">
           <h1 className="text-center text-6xl font-bold w-full text-slate-500">Contact Us</h1>
           <p className="relative z-50 mb-4 text-base font-normal text-slate-500">
-            We're here to help with any questions about our courses, programs, or events. Reach out and let us know how we can assist you in your musical journey.
+            We &apos;re here to help with any questions about our courses, programs, or events. Reach out and let us know how we can assist you in your musical journey.
           </p>
 
           <form className="space-y-4 w-full">

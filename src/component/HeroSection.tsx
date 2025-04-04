@@ -10,7 +10,7 @@ const HeroSection = () => {
             />
             <div className="p-4 relative z-10 w-full text-center">
                 <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold  text-white from-neutral-50 to-neutral-400">Master the art of music</h1>
-                <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Dive into the comprehensive music course and transform your musical journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential</p>
+                <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Dive into the comprehensive music course and transform your musical journey today. Whether you&apos;re a beginner or looking to refine your skills, join us to unlock your true potential</p>
                 <div className="mt-4 text-white">
                     <Link href="/courses">
                         <Button className="cursor-pointer bg-white dark:bg-slate-900 text-black font-medium dark:text-white border-neutral-400 dark:border-slate-800">

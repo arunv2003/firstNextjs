@@ -1,3 +1,4 @@
+'use client'
 import { Meteors } from "@/component/ui/meteors"
 
 const page = () => {

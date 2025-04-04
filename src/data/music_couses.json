@@ -1,0 +1,204 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Graphic Design",
+            "description": "Learn the basics of graphic design with Adobe tools.",
+            "price": 99.99,
+            "instructor": "Sophia Turner",
+            "isFeatured": true,
+            "slug": "introduction-to-graphic-design",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "JavaScript for Web Development",
+            "description": "Master JavaScript and build interactive web applications.",
+            "price": 129.99,
+            "instructor": "Ethan Reynolds",
+            "isFeatured": false,
+            "slug": "javascript-for-web-development",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "Digital Marketing Essentials",
+            "description": "Develop skills to create and manage online marketing campaigns.",
+            "price": 149.99,
+            "instructor": "Mia Thompson",
+            "isFeatured": true,
+            "slug": "digital-marketing-essentials",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "Python Programming for Beginners",
+            "description": "Learn Python from scratch and build real-world applications.",
+            "price": 89.99,
+            "instructor": "Ryan Hall",
+            "isFeatured": false,
+            "slug": "python-programming-for-beginners",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Financial Accounting Basics",
+            "description": "Understand financial statements and accounting principles.",
+            "price": 109.99,
+            "instructor": "Olivia Mitchell",
+            "isFeatured": true,
+            "slug": "financial-accounting-basics",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Advanced Photoshop Techniques",
+            "description": "Enhance your editing skills with advanced Photoshop tools.",
+            "price": 139.99,
+            "instructor": "David Martin",
+            "isFeatured": false,
+            "slug": "advanced-photoshop-techniques",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "title": "Personal Branding Strategies",
+            "description": "Build a strong personal brand and online presence.",
+            "price": 79.99,
+            "instructor": "Chloe Adams",
+            "isFeatured": true,
+            "slug": "personal-branding-strategies",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "title": "Data Visualization with Tableau",
+            "description": "Create interactive data visualizations and dashboards.",
+            "price": 159.99,
+            "instructor": "Lucas White",
+            "isFeatured": false,
+            "slug": "data-visualization-with-tableau",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "title": "Creative Writing for Storytelling",
+            "description": "Develop storytelling skills and creative writing techniques.",
+            "price": 99.99,
+            "instructor": "Emma Clark",
+            "isFeatured": true,
+            "slug": "creative-writing-for-storytelling",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "title": "Machine Learning with Python",
+            "description": "Build and train machine learning models using Python libraries.",
+            "price": 199.99,
+            "instructor": "Henry Baker",
+            "isFeatured": false,
+            "slug": "machine-learning-with-python",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "title": "Music Theory Fundamentals",
+            "description": "Understand the theory behind musical compositions.",
+            "price": 69.99,
+            "instructor": "Sophia Reed",
+            "isFeatured": true,
+            "slug": "music-theory-fundamentals",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "title": "SEO for Online Businesses",
+            "description": "Boost your website's visibility with effective SEO techniques.",
+            "price": 119.99,
+            "instructor": "Liam Gray",
+            "isFeatured": false,
+            "slug": "seo-for-online-businesses",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "title": "Basic Cooking Skills",
+            "description": "Learn essential cooking techniques and easy recipes.",
+            "price": 59.99,
+            "instructor": "Isabella Wright",
+            "isFeatured": true,
+            "slug": "basic-cooking-skills",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "title": "Yoga for Stress Relief",
+            "description": "Practice yoga techniques to reduce stress and improve flexibility.",
+            "price": 49.99,
+            "instructor": "Ava Lewis",
+            "isFeatured": false,
+            "slug": "yoga-for-stress-relief",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "title": "Building REST APIs with Node.js",
+            "description": "Develop and deploy scalable APIs using Node.js and Express.",
+            "price": 129.99,
+            "instructor": "Jack Perry",
+            "isFeatured": true,
+            "slug": "building-rest-apis-with-nodejs",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "title": "Stock Trading Strategies",
+            "description": "Learn effective trading strategies to maximize profits.",
+            "price": 199.99,
+            "instructor": "Noah Rivera",
+            "isFeatured": false,
+            "slug": "stock-trading-strategies",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "title": "Public Speaking Confidence",
+            "description": "Develop confidence and communication skills for public speaking.",
+            "price": 79.99,
+            "instructor": "Grace Cooper",
+            "isFeatured": true,
+            "slug": "public-speaking-confidence",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "title": "Cybersecurity Essentials",
+            "description": "Learn fundamental concepts to protect systems from cyber attacks.",
+            "price": 159.99,
+            "instructor": "Dylan Gray",
+            "isFeatured": false,
+            "slug": "cybersecurity-essentials",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "title": "Interior Design Principles",
+            "description": "Transform living spaces with creative design techniques.",
+            "price": 139.99,
+            "instructor": "Zoe King",
+            "isFeatured": true,
+            "slug": "interior-design-principles",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "title": "Spanish for Beginners",
+            "description": "Learn basic Spanish phrases and grammar.",
+            "price": 79.99,
+            "instructor": "Lucas Lopez",
+            "isFeatured": false,
+            "slug": "spanish-for-beginners",
+            "image": ""
+        }
+    ]
+}
